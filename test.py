@@ -1,4 +1,4 @@
-import boto4
+import boto2
 from botocore.exceptions import ClientError
 
 
